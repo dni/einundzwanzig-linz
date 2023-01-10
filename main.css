@@ -4,13 +4,27 @@ body {
     font-family: Inconsolata, Arial, sans-serif;
     background: orange;
     color: white;
+    font-size: 30px;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
 }
 
 h1,h2,h3,h4,h5 {
     font-family: Archivo, Arial, sans-serif;
     font-weight: 900;
+    word-break:break-word;
 }
 
 .logo {
     width: 300px;
+    margin-top: 66px;
 }
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-bottom: 23px;
+}
+
