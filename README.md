@@ -1,2 +1,2 @@
-# einundzwanzig-linz
+# Einundzwanzig Linz
 Einundzwanzig Austria Linz - Webseite
