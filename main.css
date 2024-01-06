@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;700;800;900&family=Inconsolata:wght@700;900&display=swap');
-
 body {
-    font-family: Inconsolata, Arial, sans-serif;
-    background: orange;
-    color: white;
+    font-family: sans-serif;
+    background: #222;
+    color: #eee;
     font-size: 30px;
     text-align: center;
     max-width: 600px;
@@ -11,14 +9,20 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: Archivo, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-weight: 900;
     word-break:break-word;
+}
+
+a, a:visited {
+    color: #fe7c00;
 }
 
 .logo {
     width: 300px;
     margin-top: 66px;
+    padding: 6px;
+    background: white;
 }
 
 ul {
@@ -27,4 +31,3 @@ ul {
     list-style: none;
     margin-bottom: 23px;
 }
-
